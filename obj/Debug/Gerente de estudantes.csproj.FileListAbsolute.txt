@@ -1,0 +1,11 @@
+C:\Users\victor.vfpalmieri\source\repos\agenda-simples-t5\Gerente de estudantes\obj\Debug\Gerente de estudantes.csproj.AssemblyReference.cache
+C:\Users\victor.vfpalmieri\source\repos\agenda-simples-t5\Gerente de estudantes\obj\Debug\Gerente de estudantes.csproj.SuggestedBindingRedirects.cache
+C:\Users\victor.vfpalmieri\source\repos\agenda-simples-t5\Gerente de estudantes\obj\Debug\Gerente_de_estudantes.Form1.resources
+C:\Users\victor.vfpalmieri\source\repos\agenda-simples-t5\Gerente de estudantes\obj\Debug\Gerente_de_estudantes.Properties.Resources.resources
+C:\Users\victor.vfpalmieri\source\repos\agenda-simples-t5\Gerente de estudantes\obj\Debug\Gerente de estudantes.csproj.GenerateResource.cache
+C:\Users\victor.vfpalmieri\source\repos\agenda-simples-t5\Gerente de estudantes\obj\Debug\Gerente de estudantes.csproj.CoreCompileInputs.cache
+C:\Users\victor.vfpalmieri\source\repos\agenda-simples-t5\Gerente de estudantes\bin\Debug\Gerente de estudantes.exe.config
+C:\Users\victor.vfpalmieri\source\repos\agenda-simples-t5\Gerente de estudantes\bin\Debug\Gerente de estudantes.exe
+C:\Users\victor.vfpalmieri\source\repos\agenda-simples-t5\Gerente de estudantes\bin\Debug\Gerente de estudantes.pdb
+C:\Users\victor.vfpalmieri\source\repos\agenda-simples-t5\Gerente de estudantes\obj\Debug\Gerente de estudantes.exe
+C:\Users\victor.vfpalmieri\source\repos\agenda-simples-t5\Gerente de estudantes\obj\Debug\Gerente de estudantes.pdb
