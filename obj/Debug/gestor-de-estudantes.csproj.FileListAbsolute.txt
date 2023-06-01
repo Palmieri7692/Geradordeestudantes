@@ -1,0 +1,6 @@
+C:\Users\victor.vfpalmieri\source\repos\Geradordeestudantes\obj\Debug\gestor-de-estudantes.csproj.AssemblyReference.cache
+C:\Users\victor.vfpalmieri\source\repos\Geradordeestudantes\obj\Debug\gestor-de-estudantes.csproj.SuggestedBindingRedirects.cache
+C:\Users\victor.vfpalmieri\source\repos\Geradordeestudantes\obj\Debug\student_manager.Login_Form.resources
+C:\Users\victor.vfpalmieri\source\repos\Geradordeestudantes\obj\Debug\student_manager.Properties.Resources.resources
+C:\Users\victor.vfpalmieri\source\repos\Geradordeestudantes\obj\Debug\gestor-de-estudantes.csproj.GenerateResource.cache
+C:\Users\victor.vfpalmieri\source\repos\Geradordeestudantes\obj\Debug\gestor-de-estudantes.csproj.CoreCompileInputs.cache
